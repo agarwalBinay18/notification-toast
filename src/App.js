@@ -13,7 +13,7 @@ function App() {
         toastProperties = {
           id: list.length+1,
           title: 'Success',
-          description: 'Do you want to confirm',
+          description: 'Do you want to Confirm?',
           backgroundColor: '#5cb85c'
         }
         break;
