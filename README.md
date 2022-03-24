@@ -1,4 +1,5 @@
-
+### DEMO
+[Demo](https://codesandbox.io/s/strange-beaver-6zgjww) on CodeSandbox.
 
 ## Installation & Set Up
 
